@@ -11,6 +11,10 @@ sections:
   path: data/en/feature.yml
   label: Services
 - type: document
+  path: data/en/about.yml
+  label: Features
+  match: "**/*"
+- type: document
   path: data/en/workingprocess.yml
   label: Working Process
 - type: directory
