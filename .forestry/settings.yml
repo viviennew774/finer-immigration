@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: date/en/feature.yml
+  label: Services
+  match: "**/*"
+- type: document
   path: config.toml
   label: Config
 - type: directory
