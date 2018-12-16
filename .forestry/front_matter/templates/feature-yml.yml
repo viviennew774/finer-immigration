@@ -1,7 +1,7 @@
 ---
 label: feature.yml
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: item.icon
   label: Icon
@@ -18,3 +18,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- data/en/feature.yml
