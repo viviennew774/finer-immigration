@@ -12,11 +12,6 @@ fields:
   label: Item
   type: field_group_list
   fields:
-  - name: icon
-    label: Icon
-    type: text
-    hidden: false
-    default: ''
   - name: title
     label: Title
     type: text
