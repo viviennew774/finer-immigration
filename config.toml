@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator"
 
-# Build robots.txt file
+# Build robots.txt file.
 enableRobotsTXT = true
 # google analytics tracking id
 googleAnalytics = ""
