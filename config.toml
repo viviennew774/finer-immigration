@@ -60,31 +60,15 @@ title = "ENGLISH Let's Create Something Together"
 btnText = "Know More"
 btnURL = "https://themefisher.com/"
 button = true
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+description = "welcome to our law firm. Employer Sponsored Visas - Australian Immigration specialists Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 enable = true
 heading = "Finer Immigration"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
-#[[Params.listeLangues]]
-#code = "fr"
-#[[Params.listeLangues]]
-#code = "en"
 [[menu.nav]]
 name = "contact"
 url = "contact"
 weight = 5
-#[[menu.nav]]
-#name = "blog"
-#url = "blog"
-#weight = 4
-#[[menu.nav]]
-#name = "portfolio"
-#url = "portfolio"
-#weight = 3
-#[[menu.nav]]
-#name = "about"
-#url = "about"
-#weight = 1
 [[menu.quicklink]]
 name = "badges"
 url = "about"
