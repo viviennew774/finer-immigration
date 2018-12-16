@@ -7,7 +7,6 @@ sections:
 - type: document
   path: date/en/feature.yml
   label: Services
-  match: "**/*"
 - type: document
   path: config.toml
   label: Config
