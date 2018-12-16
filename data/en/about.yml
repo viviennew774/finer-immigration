@@ -2,7 +2,7 @@
 enable: true
 item:
 - positionRight: false
-  image: images/about/about-1.jpg
+  image: "/images/viv.jpg"
   title: ENGLISH Creativity is in our blood
   description: 'ENGLISH Curabitur felis nibh, imperdiet eu erat non, luctus cursus
     lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque
