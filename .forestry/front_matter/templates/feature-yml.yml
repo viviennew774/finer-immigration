@@ -1,7 +1,7 @@
 ---
 label: feature.yml
-hide_body:
-is_partial:
+hide_body: 
+is_partial: 
 fields:
 - name: item.icon
   label: Icon
