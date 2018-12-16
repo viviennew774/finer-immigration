@@ -124,7 +124,7 @@ url = "contact"
 weight = 5
 [[menu.nav]]
 name = "blog"
-url = "blog"
+url = "blog2"
 weight = 4
 [[menu.nav]]
 name = "portfolio"
