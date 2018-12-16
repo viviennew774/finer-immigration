@@ -8,6 +8,10 @@ sections:
   path: config.toml
   label: Config
 - type: document
+  path: data/en/workingprocess.yml
+  label: Working Process
+  match: "**/*"
+- type: document
   path: data/en/feature.yml
   label: Services
 - type: directory
