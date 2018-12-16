@@ -1,31 +1,24 @@
----
 label: Finer Immigration1
 hide_body: false
 is_partial: false
 fields:
-- name: Languages.en.params.hero
+- name: Languages.en.params.hero.heading
   label: Heading
-  type: field_group_list
-  fields:
-  - name: heading
-    label: Heading
-    type: text
-    hidden: false
-    default: ''
-  - name: description
-    label: Heading
-    type: text
-    hidden: false
-    default: ''
-  - name: btnText
-    label: Button Text
-    type: text
-    hidden: false
-    default: ''
-  - name: btnURL
-    label: Button URL
-    type: text
-    hidden: false
-    default: ''
-pages:
-- config.toml
+  type: text
+  hidden: false
+  default: ''
+- name: Languages.en.params.hero.description
+  label: Heading
+  type: text
+  hidden: false
+  default: ''
+- name: Languages.en.params.hero.btnText
+  label: Button Text
+  type: text
+  hidden: false
+  default: ''
+- name: Languages.en.params.hero.btnURL
+  label: Button URL
+  type: text
+  hidden: false
+  default: ''
