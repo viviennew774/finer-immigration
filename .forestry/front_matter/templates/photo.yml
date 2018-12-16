@@ -1,8 +1,0 @@
----
-label: Photo
-hide_body: false
-is_partial: false
-fields:
-- type: image_gallery
-  name: viv-photo
-  label: Photo
