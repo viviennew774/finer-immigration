@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.finerimmigration.com.au/en/sample/</loc>
+    <lastmod>2018-12-16T05:39:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.finerimmigration.com.au/en/blog/blog-photos-on-phone/</loc>
     <lastmod>2018-12-16T15:48:39+11:00</lastmod>
   </url>
@@ -144,7 +149,7 @@
   
   <url>
     <loc>https://www.finerimmigration.com.au/en/</loc>
-    <lastmod>2018-12-16T15:48:39+11:00</lastmod>
+    <lastmod>2018-12-16T05:39:18+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
