@@ -131,10 +131,6 @@ name = "portfolio"
 url = "portfolio"
 weight = 3
 [[menu.nav]]
-name = "service"
-url = "service"
-weight = 2
-[[menu.nav]]
 name = "about 2"
 url = "about"
 weight = 1
