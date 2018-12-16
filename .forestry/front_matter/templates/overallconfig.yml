@@ -1,0 +1,16 @@
+---
+label: Finer Immigration1
+hide_body: false
+is_partial: false
+fields:
+fields:
+  - name: Languages.en.params.aboutSm.title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: Languages.en.params.aboutSm.description
+    label: Description
+    type: textarea
+    hidden: false
+    default: ''
