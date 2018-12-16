@@ -2,4 +2,13 @@
 label: Working Process
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: item_title
+  label: Title
+- type: text
+  name: item_description
+  label: Description
+- type: file
+  name: item_photo
+  label: Photo
