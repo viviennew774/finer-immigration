@@ -1,4 +1,3 @@
----
 label: Finer Immigration1
 hide_body: false
 is_partial: false
@@ -27,19 +26,3 @@ fields:
     type: text
     hidden: false
     default: ''
-- name: Languages.en.params.aboutSm
-  label: About
-  type: field_group_list
-  fields:
-  - name: title
-    label: Title
-    type: text
-    hidden: false
-    default: ''
-  - name: description
-    label: Description
-    type: textarea
-    hidden: false
-    default: ''
-pages:
-- config.toml
