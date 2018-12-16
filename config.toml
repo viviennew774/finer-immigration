@@ -19,7 +19,7 @@ footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuer
 footerQuicklinkTitle = "ENGLISH Quicklinks"
 footerServiceTitle = "ENGLISH Service"
 footerSubscribeTitle = "ENGLISH Subscribe"
-home = "EN Home"
+home = "Home"
 languageCode = "en-us"
 logo = "images/logo.png"
 menufixed = false
@@ -65,79 +65,26 @@ enable = true
 heading = "Finer Immigration"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
-[Languages.fr]
-dateFormat = "2 January 2006"
-footerAboutTitle = "FRANCAIS About"
-footerDescription = "FRANCAIS Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerQuicklinkTitle = "FRANCAIS Quick links"
-footerServiceTitle = "FRANCAIS Services"
-footerSubscribeTitle = "FRANCAIS Subscribe"
-home = "FR Home"
-languageCode = "fr-fr"
-logo = "images/logo.png"
-menufixed = false
-title = "FRANCAIS Example site multi-language"
-weight = 1
-[Languages.fr.params.aboutSm]
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-enable = true
-title = "FRANCAIS We have explored the digital landscape with passion for a long time"
-[Languages.fr.params.blog]
-enable = true
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-title = "FRANCAIS Blog."
-topTitle = "OUR UNTOLD STORY"
-[Languages.fr.params.contact]
-address = "14/05, Stockhome <br> Victori Palace , United States"
-dribbble = "https://dribbble.com/"
-enable = true
-facebook = "https://www.facebook.com/"
-fax = "+61 3827 3590"
-instagram = "https://www.instagram.com/"
-linkedin = "https://www.linkedin.com/"
-mapLatitude = 51.507351
-mapLongitude = -0.127758
-mapMarker = "images/marker.png"
-phone = "(03) 9283 2617"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-title = "FRANCAIS Contact Us."
-topTitle = "DROP US A NOTE"
-twitter = "https://twitter.com/"
-[Languages.fr.params.cta]
-bg = "images/call-to-action/call-to-action-bg-2.jpg"
-btnText = "Nous contacter"
-enable = true
-subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-title = "FRANCAIS Let's Create Something Together"
-[Languages.fr.params.hero]
-btnText = "Know More"
-btnURL = "https://themefisher.com/"
-button = true
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-enable = true
-heading = "FRANCAIS We love to make brands grow"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
-[[Params.listeLangues]]
-code = "fr"
-[[Params.listeLangues]]
-code = "en"
+#[[Params.listeLangues]]
+#code = "fr"
+#[[Params.listeLangues]]
+#code = "en"
 [[menu.nav]]
 name = "contact"
 url = "contact"
 weight = 5
-[[menu.nav]]
-name = "blog"
-url = "blog2"
-weight = 4
-[[menu.nav]]
-name = "portfolio"
-url = "portfolio"
-weight = 3
-[[menu.nav]]
-name = "about"
-url = "about"
-weight = 1
+#[[menu.nav]]
+#name = "blog"
+#url = "blog"
+#weight = 4
+#[[menu.nav]]
+#name = "portfolio"
+#url = "portfolio"
+#weight = 3
+#[[menu.nav]]
+#name = "about"
+#url = "about"
+#weight = 1
 [[menu.quicklink]]
 name = "badges"
 url = "about"
