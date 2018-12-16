@@ -47,7 +47,7 @@ mapLongitude = -0.127758
 mapMarker = "images/marker.png"
 phone = "(03) 9283 2617"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-title = "ENGLISH Contact Us."
+title = "Contact Us."
 topTitle = "DROP US A NOTE"
 twitter = "https://twitter.com/"
 [Languages.en.params.cta]

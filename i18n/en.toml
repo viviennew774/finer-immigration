@@ -7,7 +7,7 @@
 [blog]
 #other = "EN Blog"
 [contact]
-#other = "EN Contact"
+other = "Contact"
 
 [graphicdesign]
 #other = "EN Graphic Design"
