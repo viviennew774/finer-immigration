@@ -125,3 +125,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- data/en/pricing.yml
