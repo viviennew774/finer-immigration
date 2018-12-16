@@ -5,7 +5,7 @@ is_partial: false
 fields:
 - type: file
   label: photo
-  name: main_photo
+  name: Languages.en.params.hero.photo
   description: Homepage main photo
 - name: Languages.en.params.hero.heading
   label: Heading
