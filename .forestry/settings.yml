@@ -15,14 +15,9 @@ sections:
   label: Services
 - type: directory
   path: data/en
-  label: data
+  label: All Config
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
