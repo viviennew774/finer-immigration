@@ -1,0 +1,712 @@
+---
+label: Finer Immigration
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: DefaultContentLanguage
+  label: Defaultcontentlanguage
+  type: text
+  hidden: false
+  default: ''
+- name: baseURL
+  label: Baseurl
+  type: text
+  hidden: false
+  default: ''
+- name: defaultContentLanguageInSubdir
+  label: Defaultcontentlanguageinsubdir
+  type: boolean
+  hidden: false
+  default: ''
+- name: enableGitInfo
+  label: Enablegitinfo
+  type: boolean
+  hidden: false
+  default: ''
+- name: enableRobotsTXT
+  label: Enablerobotstxt
+  type: boolean
+  hidden: false
+  default: ''
+- name: googleAnalytics
+  label: Googleanalytics
+  type: text
+  hidden: false
+  default: ''
+- name: languageCode
+  label: Languagecode
+  type: text
+  hidden: false
+  default: ''
+- name: pygmentsCodeFences
+  label: Pygmentscodefences
+  type: boolean
+  hidden: false
+  default: ''
+- name: theme
+  label: Theme
+  type: text
+  hidden: false
+  default: ''
+- name: Languages
+  label: Languages
+  type: field_group
+  fields:
+  - name: en
+    label: En
+    type: field_group
+    fields:
+    - name: dateFormat
+      label: Dateformat
+      type: text
+      hidden: false
+      default: ''
+    - name: footerAboutTitle
+      label: Footerabouttitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerDescription
+      label: Footerdescription
+      type: textarea
+      hidden: false
+      default: ''
+    - name: footerQuicklinkTitle
+      label: Footerquicklinktitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerServiceTitle
+      label: Footerservicetitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerSubscribeTitle
+      label: Footersubscribetitle
+      type: text
+      hidden: false
+      default: ''
+    - name: home
+      label: Home
+      type: text
+      hidden: false
+      default: ''
+    - name: languageCode
+      label: Languagecode
+      type: text
+      hidden: false
+      default: ''
+    - name: logo
+      label: Logo
+      type: file
+      hidden: false
+      default: ''
+    - name: menufixed
+      label: Menufixed
+      type: boolean
+      hidden: false
+      default: ''
+    - name: title
+      label: Title
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    - name: params
+      label: Params
+      type: field_group
+      fields:
+      - name: aboutSm
+        label: Aboutsm
+        type: field_group
+        fields:
+        - name: description
+          label: Description
+          type: textarea
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: blog
+        label: Blog
+        type: field_group
+        fields:
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        - name: topTitle
+          label: Toptitle
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: contact
+        label: Contact
+        type: field_group
+        fields:
+        - name: address
+          label: Address
+          type: text
+          hidden: false
+          default: ''
+        - name: dribbble
+          label: Dribbble
+          type: text
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: facebook
+          label: Facebook
+          type: text
+          hidden: false
+          default: ''
+        - name: fax
+          label: Fax
+          type: text
+          hidden: false
+          default: ''
+        - name: instagram
+          label: Instagram
+          type: text
+          hidden: false
+          default: ''
+        - name: linkedin
+          label: Linkedin
+          type: text
+          hidden: false
+          default: ''
+        - name: mapLatitude
+          label: Maplatitude
+          type: text
+          hidden: false
+          default: ''
+        - name: mapLongitude
+          label: Maplongitude
+          type: text
+          hidden: false
+          default: ''
+        - name: mapMarker
+          label: Mapmarker
+          type: file
+          hidden: false
+          default: ''
+        - name: phone
+          label: Phone
+          type: text
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        - name: topTitle
+          label: Toptitle
+          type: text
+          hidden: false
+          default: ''
+        - name: twitter
+          label: Twitter
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: cta
+        label: Cta
+        type: field_group
+        fields:
+        - name: bg
+          label: Bg
+          type: file
+          hidden: false
+          default: ''
+        - name: btnText
+          label: Btntext
+          type: text
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: hero
+        label: Hero
+        type: field_group
+        fields:
+        - name: btnText
+          label: Btntext
+          type: text
+          hidden: false
+          default: ''
+        - name: btnURL
+          label: Btnurl
+          type: text
+          hidden: false
+          default: ''
+        - name: button
+          label: Button
+          type: boolean
+          hidden: false
+          default: ''
+        - name: description
+          label: Description
+          type: textarea
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: heading
+          label: Heading
+          type: text
+          hidden: false
+          default: ''
+        - name: videoThumb
+          label: Videothumb
+          type: file
+          hidden: false
+          default: ''
+        - name: videoURL
+          label: Videourl
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: fr
+    label: Fr
+    type: field_group
+    fields:
+    - name: dateFormat
+      label: Dateformat
+      type: datetime
+      hidden: false
+      default: ''
+    - name: footerAboutTitle
+      label: Footerabouttitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerDescription
+      label: Footerdescription
+      type: textarea
+      hidden: false
+      default: ''
+    - name: footerQuicklinkTitle
+      label: Footerquicklinktitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerServiceTitle
+      label: Footerservicetitle
+      type: text
+      hidden: false
+      default: ''
+    - name: footerSubscribeTitle
+      label: Footersubscribetitle
+      type: text
+      hidden: false
+      default: ''
+    - name: home
+      label: Home
+      type: text
+      hidden: false
+      default: ''
+    - name: languageCode
+      label: Languagecode
+      type: text
+      hidden: false
+      default: ''
+    - name: logo
+      label: Logo
+      type: file
+      hidden: false
+      default: ''
+    - name: menufixed
+      label: Menufixed
+      type: boolean
+      hidden: false
+      default: ''
+    - name: title
+      label: Title
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    - name: params
+      label: Params
+      type: field_group
+      fields:
+      - name: aboutSm
+        label: Aboutsm
+        type: field_group
+        fields:
+        - name: description
+          label: Description
+          type: textarea
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: blog
+        label: Blog
+        type: field_group
+        fields:
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        - name: topTitle
+          label: Toptitle
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: contact
+        label: Contact
+        type: field_group
+        fields:
+        - name: address
+          label: Address
+          type: text
+          hidden: false
+          default: ''
+        - name: dribbble
+          label: Dribbble
+          type: text
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: facebook
+          label: Facebook
+          type: text
+          hidden: false
+          default: ''
+        - name: fax
+          label: Fax
+          type: text
+          hidden: false
+          default: ''
+        - name: instagram
+          label: Instagram
+          type: text
+          hidden: false
+          default: ''
+        - name: linkedin
+          label: Linkedin
+          type: text
+          hidden: false
+          default: ''
+        - name: mapLatitude
+          label: Maplatitude
+          type: text
+          hidden: false
+          default: ''
+        - name: mapLongitude
+          label: Maplongitude
+          type: text
+          hidden: false
+          default: ''
+        - name: mapMarker
+          label: Mapmarker
+          type: file
+          hidden: false
+          default: ''
+        - name: phone
+          label: Phone
+          type: text
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        - name: topTitle
+          label: Toptitle
+          type: text
+          hidden: false
+          default: ''
+        - name: twitter
+          label: Twitter
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: cta
+        label: Cta
+        type: field_group
+        fields:
+        - name: bg
+          label: Bg
+          type: file
+          hidden: false
+          default: ''
+        - name: btnText
+          label: Btntext
+          type: text
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: subtitle
+          label: Subtitle
+          type: textarea
+          hidden: false
+          default: ''
+        - name: title
+          label: Title
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      - name: hero
+        label: Hero
+        type: field_group
+        fields:
+        - name: btnText
+          label: Btntext
+          type: text
+          hidden: false
+          default: ''
+        - name: btnURL
+          label: Btnurl
+          type: text
+          hidden: false
+          default: ''
+        - name: button
+          label: Button
+          type: boolean
+          hidden: false
+          default: ''
+        - name: description
+          label: Description
+          type: textarea
+          hidden: false
+          default: ''
+        - name: enable
+          label: Enable
+          type: boolean
+          hidden: false
+          default: ''
+        - name: heading
+          label: Heading
+          type: text
+          hidden: false
+          default: ''
+        - name: videoThumb
+          label: Videothumb
+          type: file
+          hidden: false
+          default: ''
+        - name: videoURL
+          label: Videourl
+          type: text
+          hidden: false
+          default: ''
+        hidden: false
+        default: ''
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: Params
+  label: Params
+  type: field_group
+  fields:
+  - name: listeLangues
+    label: Listelangues
+    type: field_group_list
+    fields:
+    - name: code
+      label: Code
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: menu
+  label: Menu
+  type: field_group
+  fields:
+  - name: nav
+    label: Nav
+    type: field_group_list
+    fields:
+    - name: name
+      label: Name
+      type: text
+      hidden: false
+      default: ''
+    - name: url
+      label: Url
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: quicklink
+    label: Quicklink
+    type: field_group_list
+    fields:
+    - name: name
+      label: Name
+      type: text
+      hidden: false
+      default: ''
+    - name: url
+      label: Url
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  - name: service
+    label: Service
+    type: field_group_list
+    fields:
+    - name: name
+      label: Name
+      type: text
+      hidden: false
+      default: ''
+    - name: url
+      label: Url
+      type: text
+      hidden: false
+      default: ''
+    - name: weight
+      label: Weight
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: params
+  label: Params
+  type: field_group
+  fields:
+  - name: logo
+    label: Logo
+    type: file
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
