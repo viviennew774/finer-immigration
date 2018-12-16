@@ -1,3 +1,4 @@
+---
 label: Finer Immigration1
 hide_body: false
 is_partial: false
@@ -22,3 +23,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- config.toml
