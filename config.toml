@@ -3,6 +3,7 @@ DefaultContentLanguage = "en"
 "Languages.en.params.hero.btnURL" = ""
 "Languages.en.params.hero.description" = ""
 "Languages.en.params.hero.heading" = ""
+"Languages.en.params.hero.photo" = ""
 baseURL = "https://www.finerimmigration.com.au/"
 defaultContentLanguageInSubdir = false
 enableGitInfo = true
@@ -63,6 +64,7 @@ button = true
 description = "welcome to our law firm. Employer Sponsored Visas - Australian Immigration specialists Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 enable = true
 heading = "Finer Immigration"
+photo = "/images/viv.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
