@@ -3,6 +3,10 @@ label: Top Section
 hide_body: false
 is_partial: false
 fields:
+- type: file
+  label: photo
+  name: main_photo
+  description: Homepage main photo
 - name: Languages.en.params.hero.heading
   label: Heading
   type: text
