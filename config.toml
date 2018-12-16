@@ -7,7 +7,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 pygmentsCodeFences = true
 theme = "navigator"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Finer Immigration"
 [Languages.en]
 dateFormat = "January 2, 2006"
 footerAboutTitle = "ENGLISH About"
@@ -131,7 +131,7 @@ name = "portfolio"
 url = "portfolio"
 weight = 3
 [[menu.nav]]
-name = "about 2"
+name = "about"
 url = "about"
 weight = 1
 [[menu.quicklink]]
