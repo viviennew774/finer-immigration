@@ -1,4 +1,8 @@
 DefaultContentLanguage = "en"
+"Languages.en.params.hero.btnText" = ""
+"Languages.en.params.hero.btnURL" = ""
+"Languages.en.params.hero.description" = ""
+"Languages.en.params.hero.heading" = ""
 baseURL = "https://www.finerimmigration.com.au/"
 defaultContentLanguageInSubdir = true
 enableGitInfo = true
@@ -58,7 +62,7 @@ btnURL = "https://themefisher.com/"
 button = true
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 enable = true
-heading = "ENGLISH We love to make brands grow"
+heading = "Finer Immigration"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Languages.fr]
