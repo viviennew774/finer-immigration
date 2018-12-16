@@ -1,7 +1,7 @@
 ---
 label: ENGLISH Our Work Process
-hide_body:
-is_partial:
+hide_body: 
+is_partial: 
 fields:
 - name: enable
   label: Enable
