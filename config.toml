@@ -1,5 +1,4 @@
-# test
-baseURL = "http://example.org/"
+baseURL = "https://www.finerimmigration.com.au/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Finer Immigration"
 theme = "navigator"
