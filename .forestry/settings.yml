@@ -8,7 +8,7 @@ sections:
   path: config.toml
   label: Config
 - type: document
-  path: date/en/feature.yml
+  path: data/en/feature.yml
   label: Services
 - type: directory
   path: data/en
