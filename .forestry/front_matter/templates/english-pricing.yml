@@ -1,8 +1,12 @@
 ---
 label: ENGLISH Pricing.
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
+- type: boolean
+  default: false
+  label: enable
+  name: enable
 - name: topTitle
   label: Toptitle
   type: text
