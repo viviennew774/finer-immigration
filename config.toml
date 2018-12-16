@@ -8,6 +8,7 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = true
 enableRobotsTXT = true
 googleAnalytics = ""
+hp_photo = "/images/viv.jpg"
 languageCode = "en-us"
 pygmentsCodeFences = true
 theme = "navigator"
