@@ -29,5 +29,7 @@ fields:
     default: ''
   hidden: false
   default: ''
+  config:
+    labelField: title
 pages:
 - data/en/feature.yml
