@@ -21,10 +21,7 @@ item:
 - number: 3
   icon: tf-ion-ios-email-outline
   title: Mail Support
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae
-    risus nec dui venenatis.
-
-'
+  description: "we have the mail support for the documents requirements \n"
 - number: 4
   icon: tf-ion-ios-locked-outline
   title: Secure System
