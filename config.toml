@@ -65,7 +65,7 @@ button = true
 description = "Australian Immigration specialists. We are specialising on Australian Employer Sponsored Visas. Our experienced lawyers/migration specialists aim to help your valued employees Live & Work in Australia."
 enable = true
 heading = "FINER IMMIGRATION We love to assist your business grow"
-photo = "/images/viv2.jpg"
+photo = "/images/slider/video-player-thumb.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
