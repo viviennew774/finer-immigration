@@ -69,25 +69,25 @@ photo = "/images/slider/video-player-thumb.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
-name = "portfolio"
-url = "portfolio"
-weight = 5
+name = "about"
+url = "about"
+weight = 2
+[[menu.nav]]
+name = "service"
+url = "service"
+weight = 1
 [[menu.nav]]
 name = "blog"
 url = "blog"
 weight = 4
 [[menu.nav]]
-name = "about"
-url = "about"
+name = "portfolio"
+url = "portfolio"
 weight = 3
-[[menu.nav]]
-name = "service"
-url = "service"
-weight = 2
 [[menu.nav]]
 name = "contact"
 url = "contact"
-weight = 1
+weight = 5
 [[menu.quicklink]]
 name = "badges"
 url = "about"
