@@ -21,9 +21,6 @@ sections:
   label: All Config
   create: all
   match: "**/*"
-- type: document
-  path: config.toml
-  label: config.toml
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
