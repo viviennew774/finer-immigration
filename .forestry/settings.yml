@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/en/portfolio.yml
+  label: Portfolio
+  match: "**/*"
+- type: document
   path: config.toml
   label: Top Section
 - type: document
