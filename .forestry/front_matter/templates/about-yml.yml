@@ -33,3 +33,4 @@ fields:
     labelField: title
 pages:
 - data/en/about.yml
+- data/en/about.yml
