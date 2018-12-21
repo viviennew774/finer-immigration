@@ -5,9 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: data/en/portfolio.yml
-  label: Portfolio
-- type: document
   path: config.toml
   label: Top Section
 - type: document
@@ -17,8 +14,8 @@ sections:
   path: data/en/about.yml
   label: Features
 - type: document
-  path: data/en/workingprocess.yml
-  label: Working Process
+  path: data/en/portfolio.yml
+  label: Portfolio
 - type: directory
   path: data/en
   label: All Config
