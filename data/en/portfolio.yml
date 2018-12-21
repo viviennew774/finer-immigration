@@ -1,8 +1,9 @@
 ---
 enable: true
-topTitle: RECENT WORK
-title: VISAS GRANTED
-subtitle: subtitle here
+topTitle: 'Immigration Acknowledgement '
+title: 'VISAS GRANTED - Electronic Visa Status '
+subtitle: 'Australian is the electronic visa system. Your passport confirm electronically
+  if you have authority to work or live in Australia. '
 filtermenu:
 - name: Photography
   category: photography
