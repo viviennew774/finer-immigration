@@ -3,7 +3,7 @@ enable: true
 topTitle: 'Immigration Acknowledgement '
 title: 'VISAS GRANTED '
 subtitle: Australian is the electronic visa system. You will obtain a granted letter
-  instead of label on your passport to confirm electronically visa status.
+  instead of label on your passport to confirm visa status.
 filtermenu:
 - name: Photography
   category: photography
