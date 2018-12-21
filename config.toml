@@ -30,7 +30,7 @@ menufixed = false
 title = "ENGLISH Example site multi-language"
 weight = 2
 [Languages.en.params.aboutSm]
-description = "Edit this content in \"Top Section\" then \"About Desc\""
+description = "Employer Sponsorship is not one-size fits-all, it is important that you find the right visa for your employee to suit your company structure "
 enable = true
 title = "Employer Sponsored Visas"
 [Languages.en.params.blog]
@@ -61,7 +61,7 @@ enable = true
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 title = "ENGLISH Let's Create Something Together"
 [Languages.en.params.hero]
-btnText = "Know More"
+btnText = "Know More "
 btnURL = "https://themefisher.com/"
 button = true
 description = "Australian Immigration specialists. We are specialising on Australian Employer Sponsored Visas,Administrative Appeals Tribunal ( AAT), and Federal Court of Australia (FCOA). Our experienced lawyers/migration specialists aim to help your valued employees Live & Work in Australia."
