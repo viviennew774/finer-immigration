@@ -13,7 +13,7 @@ filtermenu:
 - name: Design
   category: design
 item:
-- title: AirBnB Postcard
+- title: Sample1
   image: images/portfolio/portfolio-1.jpg
   category: photography
 - title: D Design
