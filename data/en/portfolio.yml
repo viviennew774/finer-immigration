@@ -15,8 +15,9 @@ filtermenu:
   category: design
 item:
 - title: Sample1
-  image: images/portfolio/portfolio-1.jpg
+  image: "/images/186-Granted.pdf"
   category: photography
+  list: []
 - title: D Design
   image: images/portfolio/portfolio-2.jpg
   category: ios design
