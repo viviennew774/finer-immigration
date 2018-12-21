@@ -30,7 +30,7 @@ menufixed = false
 title = "ENGLISH Example site multi-language"
 weight = 2
 [Languages.en.params.aboutSm]
-description = "Employer Sponsorship is not one-size fits-all, it is important that you find the right visa for your employee to suit your company structure "
+description = "Employer Sponsorship is not one-size fits-all, it is important that you find the right visa for your employee to suit your company structure. "
 enable = true
 title = "Employer Sponsored Visas"
 [Languages.en.params.blog]
