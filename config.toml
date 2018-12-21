@@ -30,7 +30,7 @@ menufixed = false
 title = "ENGLISH Example site multi-language"
 weight = 2
 [Languages.en.params.aboutSm]
-description = "Employer Sponsorship is not one-size fits-all, it is important that you find the right visa for your employee to suit your company structure. "
+description = "Employer Sponsorship is not one-size fits-all, it is important that you find the right visa for your employee to suit your company structure. You can employ workers who are living overseas but want to come work in Australia by either Sponsoring skilled workers on a permanent basis through the Employer Nomination Scheme or the Regional Sponsored Migration Scheme ( if your business is in regional Australia). You can sponsoring a worker on a tempeeoray basis through the Temporary Work Skilled subclass 457 visa ( subclass 482) , which allows them to come to Australia to work for up to 4 years. You can also enter into a Labour agreement with the Australian Government. Finer out More about the options "
 enable = true
 title = "Employer Sponsored Visas"
 [Languages.en.params.blog]
