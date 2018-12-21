@@ -1,4 +1,6 @@
 DefaultContentLanguage = "en"
+"Languages.en.params.aboutSm.description" = ""
+"Languages.en.params.aboutSm.title" = ""
 "Languages.en.params.hero.btnText" = ""
 "Languages.en.params.hero.btnURL" = ""
 "Languages.en.params.hero.description" = ""
@@ -28,7 +30,7 @@ menufixed = false
 title = "ENGLISH Example site multi-language"
 weight = 2
 [Languages.en.params.aboutSm]
-description = "Australian Immigration specialist.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+description = "Edit this content in \"Top Section\" then \"About Desc\""
 enable = true
 title = "Employer Sponsored Visas"
 [Languages.en.params.blog]
@@ -68,22 +70,6 @@ heading = "FINER IMMIGRATION We love to assist your business grow"
 photo = "/images/slider/video-player-thumb.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
-#[[menu.nav]]
-#name = "about"
-#url = "about"
-#weight = 2
-#[[menu.nav]]
-#name = "service"
-#url = "service"
-#weight = 1
-#[[menu.nav]]
-#name = "blog"
-#url = "blog"
-#weight = 4
-#[[menu.nav]]
-#name = "portfolio"
-#url = "portfolio"
-#weight = 3
 [[menu.nav]]
 name = "contact"
 url = "contact"
