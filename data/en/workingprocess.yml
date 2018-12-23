@@ -1,8 +1,9 @@
 ---
 enable: true
-topTitle: HOW WE WORKS
-title: Finer Immigration - Our Work Process
-subtitle: 'Your first step towards your dream, roadmap design for your company '
+topTitle: HOW IT WORKS
+title: 'Finer Immigration - Procedure '
+subtitle: Your first step towards your dream, a roadmap can be designed for your company
+  accordingly
 item:
 - number: 1
   icon: tf-ion-ios-briefcase-outline
