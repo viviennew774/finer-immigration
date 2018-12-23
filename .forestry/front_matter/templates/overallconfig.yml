@@ -37,3 +37,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- config.toml
