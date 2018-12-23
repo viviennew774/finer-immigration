@@ -19,8 +19,11 @@ item:
 '
 - number: 3
   icon: tf-ion-ios-email-outline
-  title: Mail Support
-  description: "we have the mail support for the documents requirements \n"
+  title: Visa Application
+  description: 'Most applicants need to have a skilled assessment that shows they
+    have the skills to work in the nominated position.
+
+'
 - number: 4
   icon: tf-ion-ios-locked-outline
   title: 'Application lodegement '
