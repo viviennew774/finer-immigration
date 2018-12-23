@@ -5,9 +5,9 @@ other = "Service"
 [portfolio]
 other = "Portfolio"
 [blog]
-other = "Blog"
+other = "FIBlog"
 [contact]
-other = "Contact"
+other = "FIContact"
 
 [graphicdesign]
 #other = "EN Graphic Design"
