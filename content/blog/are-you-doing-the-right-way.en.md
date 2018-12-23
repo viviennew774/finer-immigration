@@ -1,14 +1,18 @@
 ---
-title: ENGLISH Are You Doing the Right Way
-date: 2018-07-07T17:04:41+06:00
-image: images/blog/post-3.jpg
-author: Admin
----
+title: Finer Immigration Visa Specialist - Are You Doing the Right Way
+date: 2018-12-23 21:04:41 +1100
+image: "/images/1.jpg"
+author: Vivienne
 
+---
 ### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+Your business can benefit from employing people from overseas if you need skills that are in short supply, or if you want to discover new ideas and technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+You can also employ workers who are living overseas but want to come work in Australia by either:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra. Amet cursus sit amet dictum. Vel pretium lectus quam id leo in vitae turpis massa.
+* Sponsoring a worker on a permanent basis: You can sponsor skilled workers for permanent migration through the [Employer Nomination Scheme](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186) or the [Regional Sponsored Migration Scheme](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/regional-sponsor-migration-scheme-187) (if your business is in regional Australia).
+* Sponsoring a worker on a temporary basis: You can sponsor skilled workers for the [Temporary Work (Skilled) Subclass 457 visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/temporary-work-skilled-457), which allows them to come to Australia to work for up to 4 years.
+* Entering into a labour agreement: You can employ a number of overseas skilled workers on a permanent or temporary basis by entering into a formal [labour agreement](https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominating-a-position) with the Australian Government.
+
+Find out more about the options available to [businesses](https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/learn-about-sponsoring) on the Department of Immigration and citizenship website.
