@@ -25,10 +25,13 @@ item:
 - number: 3
   icon: tf-ion-ios-email-outline
   title: Visa Application
-  description: 'Most applicants need to have a skilled assessment that shows they
-    have the skills to work in the nominated position.
-
-'
+  description: You must apply for this visa online. You must provide a granted Nomination
+    application that your employer has lodged on your behalf. You can request this
+    information from your employer if you do not have this number. You must provide
+    all relevant documents and pay the visa application charge by when you apply.Complete
+    visa applications are likely to be processed more quickly. Incomplete ones might
+    be delayed or refused after two days if there is insufficient information provided
+    to demonstrate that requirements are met.
 - number: 4
   icon: tf-ion-ios-locked-outline
   title: Consultation
