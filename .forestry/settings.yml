@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/en/workingprocess.yml
   label: Work Processing
-  match: "**/*"
 - type: document
   path: config.toml
   label: Top Section
