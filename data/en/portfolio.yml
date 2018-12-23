@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 topTitle: 'Immigration Acknowledgement '
 title: 'VISAS GRANTED '
 subtitle: Australian is the electronic visa system. You will obtain a granted letter
@@ -16,7 +16,7 @@ filtermenu:
 item:
 - title: Sample1
   image: "/images/186-Granted.pdf"
-  category: photography
+  category: []
   list: []
 - title: D Design
   image: images/portfolio/portfolio-2.jpg
