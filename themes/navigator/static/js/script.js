@@ -143,7 +143,7 @@
 		var error = false;
 		var name = $('#name').val();
 		var email = $('#email').val();
-		var subject = $('#subject').val();
+		var mobile = $('#mobile').val();
 		var message = $('#message').val();
 
 		/* in the next section we do the checking by using VARIABLE.length
@@ -161,25 +161,25 @@
 			var error = true;
 			$('#name').css("border-color", "#D8000C");
 		} else {
-			$('#name').css("border-color", "#666");
+			$('#name').css("border-color", "#ccc");
 		}
 		if (email.length == 0 || email.indexOf('@') == '-1') {
 			var error = true;
 			$('#email').css("border-color", "#D8000C");
 		} else {
-			$('#email').css("border-color", "#666");
+			$('#email').css("border-color", "#ccc");
 		}
-		if (subject.length == 0) {
+		if (mobile.length == 0) {
 			var error = true;
-			$('#subject').css("border-color", "#D8000C");
+			$('#mobile').css("border-color", "#D8000C");
 		} else {
-			$('#subject').css("border-color", "#666");
+			$('#mobile').css("border-color", "#ccc");
 		}
 		if (message.length == 0) {
 			var error = true;
 			$('#message').css("border-color", "#D8000C");
 		} else {
-			$('#message').css("border-color", "#666");
+			$('#message').css("border-color", "#ccc");
 		}
 
 		//now when the validation is done we check if the error variable is false (no errors)
