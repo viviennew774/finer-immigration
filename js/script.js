@@ -1,11 +1,11 @@
-                           
+
 
 (function ($) { "use strict";
-	
+
 	/* ========================================================================= */
 	/*	Page Preloader
 	/* ========================================================================= */
-	
+
 	// window.load = function () {
 	// 	document.getElementById('preloader').style.display = 'none';
 	// }
@@ -34,11 +34,11 @@
 		var mixer = mixitup(portfolio_item);
 	};
 
-	
+
 	/* ========================================================================= */
 	/*	Testimonial Carousel
 	/* =========================================================================  */
- 
+
 	//Init the slider
 	$('.testimonial-slider').slick({
 		slidesToShow: 2,
@@ -69,7 +69,7 @@
 	/* ========================================================================= */
 	/*	Clients Slider Carousel
 	/* =========================================================================  */
- 
+
 	//Init the slider
 	$('.clients-logo-slider').slick({
 		infinite: true,
@@ -94,15 +94,15 @@
   		slidesToShow: 5,
   		slidesToScroll: 1,
 	});
-	
-	
+
+
 	/* ========================================================================= */
 	/*	Awars Counter Js
 	/* =========================================================================  */
 	$('.counter').each(function() {
 	  var $this = $(this),
 	      countTo = $this.attr('data-count');
-	  
+
 	  $({ countNum: $this.text()}).animate({
 	    countNum: countTo
 	  },
@@ -119,9 +119,9 @@
 	      //alert('finished');
 	    }
 
-	  });  
-	  
-	  
+	  });
+
+
 
 	});
 
@@ -150,10 +150,10 @@
 		where VARIABLE is the variable we are checking (like name, email),
 		length is a JavaScript function to get the number of characters.
 		And as you can see if the num of characters is 0 we set the error
-		variable to true and show the name_error div with the fadeIn effect. 
+		variable to true and show the name_error div with the fadeIn effect.
 		if it's not 0 then we fadeOut the div( that's if the div is shown and
-		the error is fixed it fadesOut. 
-		
+		the error is fixed it fadesOut.
+
 		The only difference from these checks is the email checking, we have
 		email.indexOf('@') which checks if there is @ in the email input field.
 		This JavaScript function will return -1 if no occurrence have been found.*/
@@ -194,7 +194,7 @@
 			/* using the jquery's post(ajax) function and a lifesaver
 			function serialize() which gets all the data from the form
 			we submit it to send_email.php */
-			$.post("sendmail.php", $("#contact-form").serialize(), function (result) {
+			$.post("https://formspree.io/webform@finerimigration.com.au", $("#contact-form").serialize(), function (result) {
 				//and after the ajax request ends we check the text returned
 				if (result == 'sent') {
 					//if the mail is sent remove the submit paragraph
@@ -263,7 +263,7 @@ function initialize() {
     //CREATE A CUSTOM PIN ICON
     var marker_image = $('#map').data('marker');
     var pinIcon = new google.maps.MarkerImage(marker_image,null,null, null,new google.maps.Size(25, 33));
-	
+
     marker = new google.maps.Marker({
         position: nottingham,
         map: map,
@@ -279,4 +279,3 @@ if(map.length != 0){
 
 
 
-                            
