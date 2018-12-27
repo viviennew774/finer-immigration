@@ -30,6 +30,7 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  exclude: _index.en.md
 - type: directory
   path: data/en
   label: All Config
