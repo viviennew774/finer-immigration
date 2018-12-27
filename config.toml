@@ -71,6 +71,10 @@ photo = "/images/viv2.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
+name = "services"
+url = "services"
+weight = 3
+[[menu.nav]]
 name = "blog"
 url = "blog"
 weight = 4
@@ -94,17 +98,17 @@ weight = 2
 name = "partners"
 url = "about"
 weight = 1
-[[menu.service]]
+[[menu.services]]
 name = "webdevelopment"
-url = "service"
+url = "services"
 weight = 3
-[[menu.service]]
+[[menu.services]]
 name = "webdesign"
-url = "service"
+url = "services"
 weight = 2
-[[menu.service]]
+[[menu.services]]
 name = "graphicdesign"
-url = "service"
+url = "services"
 weight = 1
 [params]
 logo = "images/logo.png"
