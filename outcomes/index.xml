@@ -11,5 +11,14 @@
 	<atom:link href="https://www.finerimmigration.com.au/outcomes/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Outcome 1</title>
+      <link>https://www.finerimmigration.com.au/outcomes/outcome-1/</link>
+      <pubDate>Sun, 23 Dec 2018 10:04:41 +0000</pubDate>
+      
+      <guid>https://www.finerimmigration.com.au/outcomes/outcome-1/</guid>
+      <description>Introduction Info here&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>
