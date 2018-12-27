@@ -26,6 +26,12 @@ sections:
   match: "**/*"
   exclude: _index.en.md
 - type: directory
+  path: content/outcomes
+  label: Outcomes
+  create: all
+  match: "**/*"
+  exclude: _index.en.md
+- type: directory
   path: content/blog
   label: Blog
   create: all
