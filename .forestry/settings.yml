@@ -6,16 +6,16 @@ webhook_url:
 sections:
 - type: document
   path: config.toml
-  label: Homepage - Top
+  label: 'Homepage: Top'
 - type: document
   path: data/en/workingprocess.yml
-  label: Homepage - Work Processing
+  label: 'Homepage: Process'
 - type: document
   path: data/en/feature.yml
-  label: Homepage - Services
+  label: 'Homepage: Services'
 - type: document
   path: data/en/about.yml
-  label: Features
+  label: 'Homepage: Features'
 - type: document
   path: data/en/portfolio.yml
   label: Portfolio
