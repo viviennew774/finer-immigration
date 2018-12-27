@@ -12,7 +12,7 @@ sections:
   label: Top Section
 - type: document
   path: data/en/feature.yml
-  label: Services
+  label: Homepage - Services
 - type: document
   path: data/en/about.yml
   label: Features
