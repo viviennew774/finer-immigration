@@ -9,7 +9,7 @@ sections:
   label: Work Processing
 - type: document
   path: config.toml
-  label: Top Section
+  label: Homepage - Top
 - type: document
   path: data/en/feature.yml
   label: Homepage - Services
