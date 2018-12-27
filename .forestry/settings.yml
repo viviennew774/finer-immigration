@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: data/en/workingprocess.yml
-  label: Work Processing
-- type: document
   path: config.toml
   label: Homepage - Top
+- type: document
+  path: data/en/workingprocess.yml
+  label: Homepage - Work Processing
 - type: document
   path: data/en/feature.yml
   label: Homepage - Services
