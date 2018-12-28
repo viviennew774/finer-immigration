@@ -5,7 +5,6 @@ image: "/images/1.jpg"
 author: Vivienne
 
 ---
-
 Regional Sponsored Migration Scheme ( RSMS) visa ( subclass 187)
 
 _Main requirements and facts:_
@@ -13,7 +12,7 @@ _Main requirements and facts:_
 * More than 500 occupations to choose from
 * Occupation must be listed on relevant regional skilled occupation list for this subclass
 * This Visa is a permanent residence visa for skilled workers
-* To work in regional Australia 
+* To work in regional Australia
 * Business sponsorship approval valid for 5 years
 * Be under 45 years of age, exemptions apply in some cases
 * Registered and lawfully operating business either established or start-up
