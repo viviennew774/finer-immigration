@@ -1,7 +1,7 @@
 +++
 author = "Vivienne"
 date = "2018-12-23T10:04:41.000+00:00"
-image = "/images/1.jpg"
+image = "/images/Screen Shot 2018-12-29 at 3.33.22 pm.png"
 title = "Finer Immigration Sponsorship Visa Specialist - Are you doing the right way"
 
 +++
