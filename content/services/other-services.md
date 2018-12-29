@@ -5,7 +5,7 @@ image = "/images/IMG_3270-1.jpeg"
 title = "Temporary Work Short Stay Specialist visa (subclass 400) visa "
 
 +++
-**Temporary Work Short Stay Specialist visa (subclass 400) visa** 
+**Temporary Work Short Stay Specialist visa (subclass 400) visa**
 
 _Main requirements and facts:_
 
