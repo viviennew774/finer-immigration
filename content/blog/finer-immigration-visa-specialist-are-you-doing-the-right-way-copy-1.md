@@ -2,10 +2,10 @@
 author = "Vivienne"
 date = "2018-12-23T10:04:41.000+00:00"
 image = "/images/1.jpg"
-title = "Finer Immigration Visa Specialist - Are You Doing the Right Way-(copy)"
+title = "Finer Immigration Sponsorship Visa Specialist - Are you doing the right way"
 
 +++
-### Introduction
+### 
 
 Your business can benefit from employing people from overseas if you need skills that are in short supply, or if you want to discover new ideas and technologies.
 
