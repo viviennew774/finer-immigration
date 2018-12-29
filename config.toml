@@ -61,8 +61,8 @@ enable = true
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 title = "ENGLISH Let's Create Something Together"
 [Languages.en.params.hero]
-btnText = "Know More "
-btnURL = "https://themefisher.com/"
+btnText = "Contact Us "
+btnURL = "/contact/"
 button = true
 description = "Hello, I am Vivienne  Welcome to our law firm. I, myself a migrant, deeply understand the overwhelming Australian Immigration Procedure. Our law firm is specialising on Australian Employer Sponsored Visas, Administrative Appeals Tribunal ( AAT), and Federal Court of Australia (FCOA). Our experienced lawyers/migration specialists aim to help your valued employees Live & Work in Australia."
 enable = true
