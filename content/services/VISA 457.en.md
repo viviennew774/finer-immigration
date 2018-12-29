@@ -1,7 +1,7 @@
 ---
 title: Regional Sponsored Migration Scheme ( RSMS) visa ( subclass 187)
 date: 2018-12-23 10:04:41 +0000
-image: "/images/IMG_3275-2.jpeg"
+image: "/images/Screen Shot 2018-12-29 at 3.33.22 pm.png"
 author: Vivienne
 
 ---
