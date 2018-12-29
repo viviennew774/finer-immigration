@@ -25,4 +25,4 @@ _Main requirements and facts:_
 * Employer must provide evidence of genuine need in most cases – our office will provide assistance including detailed guidelines and confirm whether this is required in your case
 * A business plan or organizational chart may be required in some cases
 * Advertising of the position is required in some cases
-* Additional information may be required depending on each particular case
+* Additional information may be required depending on each particular case.
