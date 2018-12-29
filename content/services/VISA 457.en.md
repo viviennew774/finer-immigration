@@ -21,4 +21,4 @@ _Main requirements and facts:_
 * Applicant must have an equivalent Competent [English IELTS score of 6e](https://www.immiaustralia.com.au/alternative-english-language-tests/) with a minimum score of 6 in each component -or- equivalent IELTS 5 in each component depending on your occupation *[exemptions apply in some cases](https://www.immiaustralia.com.au/blogs/482-english-exemptions/)
 * A skills assessment is required for some occupations
 * Employer must pay market salary rate for full time employment, 38 hours per week *part-time hours may be acceptable in some cases
-* Salary must not be less than $53,900 + superannuation, overtime additional
+* Salary must not be less than $53,900 + superannuation, overtime additional.
