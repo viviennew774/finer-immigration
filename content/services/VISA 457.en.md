@@ -22,8 +22,3 @@ _Main requirements and facts:_
 * A skills assessment is required for some occupations
 * Employer must pay market salary rate for full time employment, 38 hours per week *part-time hours may be acceptable in some cases
 * Salary must not be less than $53,900 + superannuation, overtime additional
-* . This requirement can be met in different ways. *This is currently not required until the new Skilling fund comes into effect
-* Employer must provide evidence of genuine need in most cases – our office will provide assistance including detailed guidelines and confirm whether this is required in your case
-* A business plan or organizational chart may be required in some cases
-* Advertising of the position is required in some cases
-* Additional information may be required depending on each particular case
