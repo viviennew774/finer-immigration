@@ -14,4 +14,4 @@ _Main requirements and facts:_
 * English score of equivalent IELTS 4.5 average is required
 * employer must provide a training plan
 * visa duration is normally for 12 months with a possibility to renew or apply for another visa
-* read more about the [Training 407 visa](https://www.immiaustralia.com.au/the-training-visa-subclass-407/)
+* read more about the [Training 407 visa](https://www.immiaustralia.com.au/the-training-visa-subclass-407/).
