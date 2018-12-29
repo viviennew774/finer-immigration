@@ -32,5 +32,6 @@ fields:
   config:
     labelField: title
 pages:
+- content/outcomes/new.md
 - data/en/feature.yml
 - data/en/feature.yml
