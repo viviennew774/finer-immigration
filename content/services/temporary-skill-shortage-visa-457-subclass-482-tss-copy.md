@@ -1,7 +1,7 @@
 +++
 author = ""
 date = ""
-image = "/images/IMG_3268-3.jpeg"
+image = "/images/Screen Shot 2018-12-29 at 3.38.32 pm.png"
 title = "Temporary Skill Shortage Visa 457 ( Subclass 482) TSS&MTS"
 
 +++
