@@ -27,7 +27,7 @@ sections:
   label: 'Services: Top'
 - type: document
   path: data/en/clients.yml
-  label: 'Services: middle'
+  label: 'Services: Middle'
   match: "**/*"
 - type: directory
   path: content/blog
