@@ -21,7 +21,7 @@ sections:
   label: 'Homepage: Portfolio'
 - type: document
   path: data/en/philosophy.yml
-  label: 'Outcomes: Switcher'
+  label: 'Outcomes: Middle'
 - type: directory
   path: content/blog
   label: Blog
