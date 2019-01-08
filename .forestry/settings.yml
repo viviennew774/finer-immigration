@@ -28,6 +28,10 @@ sections:
 - type: document
   path: data/en/clients.yml
   label: 'Services: Middle'
+- type: document
+  path: data/en/testimonial.yml
+  label: 'Services: Bottom'
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
