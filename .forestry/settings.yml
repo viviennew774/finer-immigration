@@ -20,18 +20,6 @@ sections:
   path: data/en/portfolio.yml
   label: 'Homepage: Portfolio'
 - type: directory
-  path: content/services
-  label: Services
-  create: all
-  match: "**/*"
-  exclude: _index.en.md
-- type: directory
-  path: content/outcomes
-  label: Outcomes
-  create: all
-  match: "**/*"
-  exclude: _index.en.md
-- type: directory
   path: content/blog
   label: Blog
   create: all
