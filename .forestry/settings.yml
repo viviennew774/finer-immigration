@@ -22,6 +22,10 @@ sections:
 - type: document
   path: data/en/philosophy.yml
   label: 'Outcomes: Middle'
+- type: document
+  path: data/en/service.yml
+  label: 'Services: Client'
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
