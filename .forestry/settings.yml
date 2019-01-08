@@ -24,7 +24,7 @@ sections:
   label: 'Outcomes: Middle'
 - type: document
   path: data/en/service.yml
-  label: 'Services: Client'
+  label: 'Services: Top'
 - type: directory
   path: content/blog
   label: Blog
