@@ -1,7 +1,7 @@
 +++
 author = "Vivienne"
 date = "2018-12-12T21:04:41+11:00"
-image = "/images/Screen Shot 2018-12-29 at 3.34.19 pm.png"
+image = "/images/IMG_6.jpg"
 title = "FI Employer Sponsor Visa Specialists - What should I consider before hiring a Working Holiday Maker ?"
 
 +++
