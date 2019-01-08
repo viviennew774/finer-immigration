@@ -58,7 +58,7 @@ twitter = "https://twitter.com/"
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 btnText = "Contact Us"
 enable = true
-subtitle = ""
+subtitle = "Live and work in Australia. With Finer, life is easier."
 title = "The First Step Towards Your Dream"
 [Languages.en.params.hero]
 btnText = "Contact Us "
