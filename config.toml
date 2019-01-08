@@ -71,21 +71,25 @@ photo = "/images/viv2.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
-name = "Services"
-url = "services"
+name = "About"
+url = "about"
 weight = 1
-[[menu.nav]]
-name = "Outcomes"
-url = "outcomes"
-weight = 2
-[[menu.nav]]
-name = "Blog"
-url = "blog"
-weight = 3
 [[menu.nav]]
 name = "Contact"
 url = "contact"
+weight = 5
+[[menu.nav]]
+name = "Blog"
+url = "blog"
 weight = 4
+[[menu.nav]]
+name = "Outcomes"
+url = "outcomes"
+weight = 3
+[[menu.nav]]
+name = "Services"
+url = "services"
+weight = 2
 [[menu.quicklink]]
 name = "badges"
 url = "about"
