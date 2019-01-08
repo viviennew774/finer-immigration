@@ -59,7 +59,7 @@ bg = "images/call-to-action/call-to-action-bg-2.jpg"
 btnText = "Contact Us"
 enable = true
 subtitle = ""
-title = "First Step Towards Your Dream"
+title = "The First Step Towards Your Dream"
 [Languages.en.params.hero]
 btnText = "Contact Us "
 btnURL = "/contact/"
