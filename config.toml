@@ -84,7 +84,7 @@ url = "blog"
 weight = 3
 [[menu.nav]]
 name = "Services"
-url = "services"
+url = "service"
 weight = 1
 [[menu.quicklink]]
 name = "badges"
