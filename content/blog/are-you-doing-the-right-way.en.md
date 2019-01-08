@@ -1,7 +1,7 @@
 ---
 title: FI Employer Sponsor Visa Specialists - Be in the best position
 date: 2018-12-23 10:04:41 +0000
-image: "/images/Screen Shot 2018-12-29 at 3.38.32 pm.png"
+image: "/images/IMG_7.jpg"
 author: Vivienne
 
 ---
