@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Outcome Case Studies on Employment Visas | Finer Immigration</title>
+    <title>Outcomes on Employment Visas | Finer Immigration</title>
     <link>https://www.finerimmigration.com.au/outcomes/</link>
-    <description>Recent content in Outcome Case Studies on Employment Visas | Finer Immigration</description>
+    <description>Recent content in Outcomes on Employment Visas | Finer Immigration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 14:53:13 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
     
 	<atom:link href="https://www.finerimmigration.com.au/outcomes/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://www.finerimmigration.com.au/outcomes/new/</link>
-      <pubDate>Sat, 29 Dec 2018 14:49:06 +1100</pubDate>
-      
-      <guid>https://www.finerimmigration.com.au/outcomes/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outcome 1</title>
-      <link>https://www.finerimmigration.com.au/outcomes/outcome-1/</link>
-      <pubDate>Sun, 23 Dec 2018 10:04:41 +0000</pubDate>
-      
-      <guid>https://www.finerimmigration.com.au/outcomes/outcome-1/</guid>
-      <description>Introduction Info here&amp;hellip;</description>
-    </item>
     
   </channel>
 </rss>
