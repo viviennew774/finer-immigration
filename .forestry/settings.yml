@@ -19,6 +19,10 @@ sections:
 - type: document
   path: data/en/portfolio.yml
   label: 'Homepage: Portfolio'
+- type: document
+  path: data/en/philosophy.yml
+  label: 'Outcomes: Switcher'
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
