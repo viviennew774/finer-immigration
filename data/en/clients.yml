@@ -12,10 +12,10 @@ servicelist:
 - name: Maximum Positive Outcome
 clientLogo:
 - image: ''
-- image: images/client-logo/logo-4.png
-- image: images/client-logo/logo-5.png
-- image: images/client-logo/logo1.png
-- image: images/client-logo/logo-2.png
-- image: images/client-logo/logo-3.png
-- image: images/client-logo/logo-4.png
-- image: images/client-logo/logo-5.png
+- image: ''
+- image: ''
+- image: ''
+- image: ''
+- image: ''
+- image: ''
+- image: ''
