@@ -1,17 +1,13 @@
 ---
 enable: true
-title: 'Services: Middle [TODO]'
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem,
-  saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio
-  debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus,
-  quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum
-  blanditiis sapiente aperiam quaerat.
-
-'
+title: Services Mission
+description: |
+  Your life will be easier with Finer, we will give you the full focus on your Australian Migration by assessing the individual difference and plan the suitable roadmap only for your circumstance. Most of our Migration Lawyer/Agents had gone through the same procedure and understand the uncertainty and overwhelming it brought to your life.
+   We want to serve you by our experience, knowledge and our motivation to get the best outcome. We work closely with department of immigration and update the newest policy and legislation.   We are not only a team only for professional assistances for you to work and live in Australia, but also standing on your shoes and thinking by your side.
 image: images/about/about-1.jpg
 servicelist:
-- name: Creative Designers
-- name: Genius Developers
+- name: Undercover Best Visa Option
+- name: Roadmap to Permanent Residency
 - name: Growth Hackers
 - name: Marketing Masterminds
 clientLogo:
