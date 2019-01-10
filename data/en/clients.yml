@@ -7,13 +7,11 @@ description: |
 image: images/about/about-1.jpg
 servicelist:
 - name: Undercover Best Visa Option
-- name: Roadmap to Permanent Residency
-- name: 'Analysis Docs by Case Officer Approach '
-- name: Maximum Positive Outcome
+- name: Design Roadmap to Permanent Residency
+- name: Analysis Docs in Case Officer Approach
+- name: Undercover Best Visa Option
 clientLogo:
-- image: images/client-logo/logo1.png
-- image: images/client-logo/logo-2.png
-- image: images/client-logo/logo-3.png
+- image: ''
 - image: images/client-logo/logo-4.png
 - image: images/client-logo/logo-5.png
 - image: images/client-logo/logo1.png
