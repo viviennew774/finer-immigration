@@ -8,16 +8,13 @@ tabItem:
 - id: philosophy
   title: Finer Immigration Our Philosophy
   heading: Finer Immigration We Undercover Best Visa Option for you
-  content: 'Our migration lawyer & registered migration agent specialist on skilled
-    migration program, employer Nomination Scheme (ENS), Regional Sponsored Migration
-    Scheme ( RSMS),Skilled Independent, State and territory Nominated and skilled
-    regional visa. We design the best roadmap for you
-
-'
+  content: |
+    Our migration lawyer & registered migration agent specialist on skilled migration program, employer Nomination Scheme (ENS), Regional Sponsored Migration Scheme ( RSMS),Skilled Independent, State and territory Nominated and skilled regional visa. We can find you the best suitable occupation on the Australia New Zealand Standard Classification of Occupations (ANZSCO)
+    design the best roadmap for you.
   image: images/company/company-image.jpg
 - id: mission
-  title: ENGLISH Mission
-  heading: ENGLISH Our Mission
+  title: Finer Immigration Mission
+  heading: ''
   content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate
     molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br>
     <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia
