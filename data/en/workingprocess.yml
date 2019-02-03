@@ -2,8 +2,7 @@
 enable: true
 topTitle: HOW IT WORKS
 title: 'Finer Immigration - Procedure '
-subtitle: Your first step towards your dream, a roadmap can be designed for your company
-  accordingly
+subtitle: Your first step towards your dream, a roadmap can be designed for your accordingly
 item:
 - number: 1
   icon: tf-ion-ios-briefcase-outline
