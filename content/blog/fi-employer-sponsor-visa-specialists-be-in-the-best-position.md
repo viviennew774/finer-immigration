@@ -2,7 +2,7 @@
 author = "Vivienne"
 date = "2019-03-25T00:00:00+11:00"
 image = "/images/IMG_6-2.jpg"
-title = "the five year subclass 870 Sponsored Parent Visa "
+title = "The five year subclass 870 Sponsored Parent Visa "
 
 +++
 On 1 March 2019, Minister Coleman announced that applications to sponsor a parent for a Sponsored Parent (Temporary) visa will be open from 17 April 2019.
