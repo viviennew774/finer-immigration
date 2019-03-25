@@ -1,7 +1,6 @@
 ---
 label: Working Process
 hide_body: false
-is_partial: false
 fields:
 - name: enable
   label: Enable
