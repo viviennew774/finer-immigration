@@ -71,14 +71,13 @@ photo = "/images/viv-standing.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
-name = "Contact"
-url = "contact"
+name = "Customer Portal"
+url = "https://finerimmigration.mmportal.com.au/"
 weight = 5
 [[menu.nav]]
-name = "General"
-parent = "Assessment"
-url = "https://finerimmigration.mmportal.com.au/assessment/enquiry/general-enquiry#nav-top"
-weight = 1
+name = "Contact"
+url = "contact"
+weight = 6
 [[menu.nav]]
 name = "Assessment"
 url = "https://finerimmigration.mmportal.com.au/assessment/enquiry/general-enquiry#nav-top"
