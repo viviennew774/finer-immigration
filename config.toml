@@ -61,8 +61,8 @@ enable = true
 subtitle = "Live and work in Australia. With Finer, life is easier."
 title = "The First Step Towards Your Dream"
 [Languages.en.params.hero]
-btnText = "Contact Us "
-btnURL = "/contact/"
+btnText = "General Enquiry"
+btnURL = "https://finerimmigration.mmportal.com.au/assessment/enquiry/general-enquiry#nav-top"
 button = true
 description = "Hello, I am Vivienne  Welcome to our law firm. I, myself a migrant, deeply understand the overwhelming Australian Immigration Procedure. Our law firm is specialising on Australian Employer Sponsored Temporary and Permanent Visas, Visa Refusal Tribunals (Administrative Appeals Tribunal ( AAT)), and Judicial Review (Federal Circuit Court). Our experienced lawyers/migration specialists aim to help valued employees Work & Live in Australia. We are here to help"
 enable = true
@@ -71,21 +71,13 @@ photo = "/images/viv-standing.jpg"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
-name = "Customer Portal"
-url = "https://finerimmigration.mmportal.com.au/"
-weight = 5
-[[menu.nav]]
-name = "Contact"
-url = "contact"
-weight = 6
-[[menu.nav]]
-name = "Assessment"
-url = "https://finerimmigration.mmportal.com.au/assessment"
-weight = 4
-[[menu.nav]]
 name = "Outcomes"
 url = "about"
 weight = 2
+[[menu.nav]]
+name = "Contact"
+url = "contact"
+weight = 4
 [[menu.nav]]
 name = "Blog"
 url = "blog"
