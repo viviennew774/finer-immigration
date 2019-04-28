@@ -80,7 +80,7 @@ url = "contact"
 weight = 6
 [[menu.nav]]
 name = "Assessment"
-url = "https://finerimmigration.mmportal.com.au/assessment/enquiry/general-enquiry#nav-top"
+url = "https://finerimmigration.mmportal.com.au/assessment"
 weight = 4
 [[menu.nav]]
 name = "Outcomes"
