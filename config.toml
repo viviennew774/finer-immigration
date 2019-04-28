@@ -73,15 +73,15 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[menu.nav]]
 name = "Customer Portal"
 url = "https://finerimmigration.mmportal.com.au/"
-weight = 6
+weight = 5
 [[menu.nav]]
 name = "Contact"
 url = "contact"
-weight = 4
+weight = 6
 [[menu.nav]]
 name = "Assessment"
 url = "https://finerimmigration.mmportal.com.au/assessment"
-weight = 5
+weight = 4
 [[menu.nav]]
 name = "Outcomes"
 url = "about"
