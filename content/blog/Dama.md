@@ -2,7 +2,7 @@
 draft = true
 enable = false
 [[item]]
-description = "DAMA PROGRAM"
+description = "DAMA PROGRAM "
 icon = "NSW  / SARegional development  "
 title = "Skilled and Semi-skilled migration pathway"
 
