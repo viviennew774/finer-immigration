@@ -31,6 +31,5 @@ fields:
   config:
     labelField: title
 pages:
-- content/blog/file.md
 - data/en/feature.yml
 - data/en/feature.yml
