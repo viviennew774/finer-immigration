@@ -1,7 +1,6 @@
 +++
 author = "Vivienne"
 date = 2019-11-16T22:50:00Z
-draft = true
 image = "/images/IMG_11-1.jpg"
 title = "DAMA"
 
