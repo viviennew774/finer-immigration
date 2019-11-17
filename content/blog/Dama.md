@@ -1,5 +1,4 @@
 +++
-draft = true
 enable = true
 [[item]]
 description = "DAMA PROGRAM "
