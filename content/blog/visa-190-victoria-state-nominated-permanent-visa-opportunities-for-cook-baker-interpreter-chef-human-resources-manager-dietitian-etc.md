@@ -1,7 +1,6 @@
 +++
 author = "Vivienne"
 date = 2020-03-30T22:50:00Z
-draft = true
 image = "/images/IMG_12.jpg"
 title = "“No Further Stay” condition 8503  waiver under the coronavirus outbreak. "
 
