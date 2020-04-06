@@ -1,14 +1,22 @@
 +++
 author = "Vivienne"
-date = 2018-12-12T10:04:41Z
+date = 2020-04-06T02:20:41Z
 draft = true
 image = "/images/IMG_7-2.jpg"
-title = "FI Employer Sponsor Visa Specialists - What should I consider before hiring a Working Holiday Maker ?"
+title = "New arrangements related to Australian Temporary Visa holder (TR) aim COVID-19 Coronavirus outbreak"
 
 +++
-**What should I consider before hiring a Working Holiday Maker?**
+New arrangements related to Australian Temporary Visa holder (TR) aim COVID-19 Coronavirus outbreak. Coronavirus Update from Acting immigration Minister Alan Tudge. Based on the Message from the Acting immigration Minister Alan Tudge, the main messages are delivered:
 
-* Work should not be the main purpose of the visa-holder's stay. Any work should be secondary to the main purpose of the stay — a holiday.
-* The visa holder can only work with the same employer for a maximum of six months.
-* The Working Holiday Maker may have extra visa conditions and a breach of any condition could result in the visa being cancelled and the visa holder having to leave Australia.
-* Where licensing or registration applies to an occupation (such as health and trade occupations), or other certification is required, you should check that the visa holder has skills to the Australian standard. Employment in the same job in a foreign country does not guarantee skills to the Australian standard.
+1. International Tourist Visa Holders - Subclass 600 & 601, should consider leaving if they cannot support themselves financially, those who are no family ties in Australia in particular.
+2. Student Visa Holders - Subclass 500, should be ensured they have the first year sufficient funds, which included
+
+* Living cost amount for the student for the first 12 months ( AUD 21,041 ( annual living costs for the primary applicant)
+* Students course fees for the first 12 months
+* Travel costs for the student - Return Tickets
+* Additional fee for the companying family members apply
+
+3. Temporary Skilled Visa Holders - Employer-sponsored included Subclass 482 &457, employees who have been asked to stand down or to reduce their working hours still have their valid visas, and they can stay and draw on super to support themselves ( up to AUD 10,000 per year), whereas those who are laid off, they have 60 days to seek another eligible employer to get sponsor, otherwise they need to leave.
+4. Working Holiday Visa Holders Backpacker Subclass 462 &471, if they are working in the desired industry, for example, hospitals or farms, they can extend their working for more than 6 months and further extend their visa when it is expired conditions apply.
+
+Australian Acting Minister Alan Tudge sent the clear messages that Australian will priority their citizens and residents aim unprecedented period. Temporary visa holders should have their support from their family overseas or consider back to their own countries. We have devoted to put our clients in their best interests and help their visas in any difficult circumstances. Please feel free to contact us if we can be of any assistance.
