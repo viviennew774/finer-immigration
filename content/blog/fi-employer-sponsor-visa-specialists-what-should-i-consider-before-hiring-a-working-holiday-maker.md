@@ -1,7 +1,6 @@
 +++
 author = "Vivienne"
 date = 2020-04-06T02:20:41Z
-draft = true
 image = "/images/IMG_7-2.jpg"
 title = "New arrangements related to Australian Temporary Visa holder (TR) aim COVID-19 Coronavirus outbreak"
 
